@@ -1,0 +1,25 @@
+{
+    "name": "Elijah Guerrero",
+    "age": 2,
+    "address": {
+        "street": "Mike Divide",
+        "city": "Johnsonshire",
+        "state": "Alaska",
+        "zip": "21614"
+    },
+    "contact": {
+        "phone": "271.233.4655x9070",
+        "servicePhone": "800210742"
+    },
+    "birthday": "2023-09-05",
+    "ip": "85.170.44.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Else party set key claim television theory. Return business history specific. White decide catch send know president. West include perform TV try.",
+        "bio": "Mention yeah name work. School long learn development. Fine article service idea prevent significant student.\nMy enter add southern. Wife reason art employee. Few ok throughout soon away."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
