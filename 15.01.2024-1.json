@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Daniel Simpson MD",
+    "age": 34,
+    "address": {
+        "street": "Vargas Corners",
+        "city": "New Jason",
+        "state": "Rhode Island",
+        "zip": "83805"
+    },
+    "contact": {
+        "phone": "447-296-0808",
+        "servicePhone": "800976112"
+    },
+    "birthday": "1991-06-06",
+    "ip": "109.195.237.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Still rather study low could would choose nearly. Congress decide approach teacher decision. Indicate partner consider reveal he TV next word.",
+        "bio": "Condition wide late service wish onto pay. Kind itself age subject memory hospital mention agreement. Rock help question environment commercial."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
