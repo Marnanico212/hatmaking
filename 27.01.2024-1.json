@@ -1,0 +1,25 @@
+{
+    "name": "Wesley Reynolds",
+    "age": 106,
+    "address": {
+        "street": "Nichols Trace",
+        "city": "Ashleyton",
+        "state": "Kansas",
+        "zip": "19618"
+    },
+    "contact": {
+        "phone": "(217)228-5785",
+        "servicePhone": "800713667"
+    },
+    "birthday": "1919-23-08",
+    "ip": "82.93.27.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Another true catch describe thus. Audience appear him pull spend agreement.\nHere lay politics price. Government instead tonight change. Along news it then threat however.",
+        "bio": "Itself safe such describe the find. Our wait million stay teacher. Term sit gas.\nLook manager hundred serious quite better. Simple face certain specific. Join environmental political ok fast radio."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
