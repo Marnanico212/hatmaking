@@ -1,0 +1,25 @@
+{
+    "name": "Lori Trujillo",
+    "age": 67,
+    "address": {
+        "street": "Shepherd Knolls",
+        "city": "Port Alicia",
+        "state": "Colorado",
+        "zip": "99274"
+    },
+    "contact": {
+        "phone": "+1-775-870-3205x85013",
+        "servicePhone": "800387607"
+    },
+    "birthday": "1958-01-10",
+    "ip": "180.244.132.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Book doctor we look.\nAction resource factor same. Reality lose beyond own western clear send voice. Answer quickly design make.\nHead seven everything test.",
+        "bio": "Society bag support along responsibility bit. Color play student do help."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
