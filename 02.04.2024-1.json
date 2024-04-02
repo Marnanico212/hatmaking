@@ -1,0 +1,25 @@
+{
+    "name": "Kristi Hensley",
+    "age": 77,
+    "address": {
+        "street": "Vazquez Pike",
+        "city": "Wattsview",
+        "state": "Indiana",
+        "zip": "12908"
+    },
+    "contact": {
+        "phone": "763-846-3420x1423",
+        "servicePhone": "800588709"
+    },
+    "birthday": "1948-05-12",
+    "ip": "55.129.46.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Ability add claim main professional. Attack decade development read single top artist. Go accept what sense discussion.",
+        "bio": "Garden catch data production. Rich believe economy enjoy next capital.\nLive enough prevent edge effort. Argue behavior where particularly scene apply."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
