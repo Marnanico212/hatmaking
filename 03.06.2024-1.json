@@ -1,0 +1,25 @@
+{
+    "name": "Eric Gonzalez",
+    "age": 86,
+    "address": {
+        "street": "Joshua Pike",
+        "city": "Mooreside",
+        "state": "Mississippi",
+        "zip": "20972"
+    },
+    "contact": {
+        "phone": "+1-280-544-2851x557",
+        "servicePhone": "800635759"
+    },
+    "birthday": "1939-10-08",
+    "ip": "174.96.236.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Unit off bar why consider these allow. Eight seat others tree something stock my main. Rock television last detail. Citizen others seven movement everyone buy.",
+        "bio": "Development concern big.\nBenefit be base. Thank notice time card western then safe. Them wind live.\nGoal which paper any third. Happen cell relationship above."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
