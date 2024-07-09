@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Key",
+    "age": 107,
+    "address": {
+        "street": "Chandler Junctions",
+        "city": "West Shawn",
+        "state": "Montana",
+        "zip": "84765"
+    },
+    "contact": {
+        "phone": "775.673.3413x379",
+        "servicePhone": "800175278"
+    },
+    "birthday": "1918-09-04",
+    "ip": "3.108.151.44",
+    "foo": "bar",
+    "profile": {
+        "about": "His place daughter live. Simply prevent system attorney tell. Time while author anyone. Learn teach area before remember.",
+        "bio": "Which speech design institution five particular. Serve though impact north them.\nFund arrive machine job pattern chance national."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
