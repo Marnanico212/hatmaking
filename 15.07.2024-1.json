@@ -1,0 +1,25 @@
+{
+    "name": "Amber Tran",
+    "age": 14,
+    "address": {
+        "street": "Sara Mission",
+        "city": "Sosaborough",
+        "state": "Louisiana",
+        "zip": "16512"
+    },
+    "contact": {
+        "phone": "234-998-9832",
+        "servicePhone": "800892621"
+    },
+    "birthday": "2011-07-09",
+    "ip": "143.148.164.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Apply tonight bed. Cut clear course head. Side public girl candidate.\nHerself community edge reach. Program wind marriage question beautiful.",
+        "bio": "Subject peace beyond law Republican rest. Manage machine professional answer. However receive they energy staff TV gas."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
