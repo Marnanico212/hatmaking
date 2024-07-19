@@ -1,0 +1,25 @@
+{
+    "name": "James Martin",
+    "age": 97,
+    "address": {
+        "street": "Courtney Inlet",
+        "city": "Schroederland",
+        "state": "New Hampshire",
+        "zip": "42683"
+    },
+    "contact": {
+        "phone": "895.488.9078",
+        "servicePhone": "800982285"
+    },
+    "birthday": "1928-13-10",
+    "ip": "151.67.106.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Choice place similar hold. Happen big treat officer new better. Style sort bad it newspaper.\nReveal green despite others serious. Time daughter sing join very clear.",
+        "bio": "Walk yes research large detail health. Project Republican just rock. Benefit voice most test it effect.\nHouse keep listen week most middle. Call present finally around everything per."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
