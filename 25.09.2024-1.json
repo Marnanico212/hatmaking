@@ -1,0 +1,25 @@
+{
+    "name": "Robert Tate",
+    "age": 10,
+    "address": {
+        "street": "Marie Islands",
+        "city": "West Kimberlyshire",
+        "state": "Virginia",
+        "zip": "71047"
+    },
+    "contact": {
+        "phone": "838.416.4084x37939",
+        "servicePhone": "800723488"
+    },
+    "birthday": "2015-24-06",
+    "ip": "199.182.221.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Ten recognize water nor interest nearly international. West body benefit however time both.",
+        "bio": "Two public yourself board number. Similar whatever cause position.\nPressure summer tell. Win rest foot medical father tend. Challenge television debate strong dark country think."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
