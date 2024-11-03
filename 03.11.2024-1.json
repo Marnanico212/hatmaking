@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Sanchez",
+    "age": 50,
+    "address": {
+        "street": "Lyons Inlet",
+        "city": "Samanthafort",
+        "state": "Wisconsin",
+        "zip": "79553"
+    },
+    "contact": {
+        "phone": "+1-766-319-5373x8896",
+        "servicePhone": "800390795"
+    },
+    "birthday": "1975-09-07",
+    "ip": "28.107.54.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Garden police open western production. Party describe always personal risk after government. Many fire industry build upon industry soon. Growth place really direction structure bit clear.",
+        "bio": "Commercial energy energy under sound. Option second institution challenge team move attorney camera."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
