@@ -1,0 +1,25 @@
+{
+    "name": "Sheila Hughes",
+    "age": 79,
+    "address": {
+        "street": "Dennis Fork",
+        "city": "Carpenterhaven",
+        "state": "Kentucky",
+        "zip": "54939"
+    },
+    "contact": {
+        "phone": "(293)472-9119x79776",
+        "servicePhone": "800193284"
+    },
+    "birthday": "1946-03-10",
+    "ip": "30.14.101.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Start marriage trouble take why side. Avoid chair lay discussion win.\nArtist serious wait need fund section place. Miss second magazine event reflect consider reduce.",
+        "bio": "Trial about reason not every serve range. Court great activity whatever nation.\nSoldier pull executive nation training call. Learn truth radio whether course call."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
